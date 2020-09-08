@@ -86,3 +86,5 @@ and (iii) push your changes to your fork
 8. Now, you can [create a
 PR](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request#creating-the-pull-request)
 with this repository and I will merge your work.  
+
+__Bonus:__ [contributing to your first open source project](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
