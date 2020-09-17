@@ -1,5 +1,6 @@
 # UConn NumPy tutorial development
 ## Prof. Ryan C. Cooper
+### This is our own repository for testing git and GitHub
 
 This semester we are developing Jupyter notebooks for the [NumPy
 tutorials repository](https://github.com/numpy/numpy-tutorials.git). We
